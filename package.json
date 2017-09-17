@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-ie8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://holgerwill@github.com/holgerwill/bootstrap-ie8.git",
+  "author": "Holger Will <holgerwill@icloud.com>",
+  "license": "MIT"
+}
